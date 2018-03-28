@@ -1,3 +1,3 @@
-# Alpine Java Build Environment
+# Alpine Groovy Build Environment
 
-Has make & git CLI
+Has make & groovy CLI
